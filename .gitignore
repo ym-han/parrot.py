@@ -15,3 +15,5 @@ ffmpeg
 lib/private/*
 data/code/*
 data/README.md
+parrot_env
+.DS_Store
